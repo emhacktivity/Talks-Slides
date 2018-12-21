@@ -1,6 +1,16 @@
-Voice command allows the hand-free use of a mobile device for texting, calling and application launching. This way of interacting with the mobile devices is spreading and will certainly be one of the main improvements in the upcoming UIs. Today, a lot of features can be accessed by voice, depending on the device and the operating system. Some of them can be critical from a security point of view. On can cite placing phone calls, sending text messages, publishing and browsing the internet or even changing the device’s settings. As voice is the medium for launching commands, it is assumed that the victim would hear the attacker’s voice, so that the attack vector is generally unrealistic.
+Voice command allows the hand-free use of a mobile device for texting, calling and application launching. 
+This way of interacting with the mobile devices is spreading and will certainly be one of the main improvements 
+in the upcoming UIs. Today, a lot of features can be accessed by voice, depending on the device and the operating system. 
+Some of them can be critical from a security point of view. On can cite placing phone calls, sending text messages, 
+publishing and browsing the internet or even changing the device’s settings. As voice is the medium for launching commands, 
+it is assumed that the victim would hear the attacker’s voice, so that the attack vector is generally unrealistic.
 
-In this presentation we show another way to remotely trigger voice commands on a mobile device. In fact, the use of headphones with a mobile device is a typical use for music listening, hand-free calls, FM radio reception, etc... We will explain how we managed to quietly inject voice commands remotely by involving smart intentional electromagnetic signals. Along with the technical details of the attack scenario we will provide an analysis of the attack surface and some adapted countermeasures. Finally, several demonstrations will be proposed as a proof of concept.
+In this presentation we show another way to remotely trigger voice commands on a mobile device. 
+In fact, the use of headphones with a mobile device is a typical use for music listening, hand-free calls, 
+FM radio reception, etc... We will explain how we managed to quietly inject voice commands remotely by 
+involving smart intentional electromagnetic signals. Along with the technical details of the attack 
+scenario we will provide an analysis of the attack surface and some adapted countermeasures. 
+Finally, several demonstrations will be proposed as a proof of concept.
 
 
 https://hackinparis.com/data/slides/2015/lopes_esteves_kasmi_you_dont_hear_me.pdf
