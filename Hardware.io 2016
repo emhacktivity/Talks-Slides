@@ -1,0 +1,19 @@
+Electromagnetic Harmonic Attack on Transient Effect Ring Oscillator Based True Random Number Generator 
+by 
+Patrick Haddad, Jose Lopes Esteves, Chaouki Kasmi, Valentin Houchouas
+
+Random number generation is a critical issue in most cryptographic applications. Random numbers are used 
+as confidential keys, but also as initialization vectors, challenges, nonces and masks in side channel attack 
+countermeasures. For this reason, a security flaw in random number generation has a direct impact on the 
+security of the whole cryptographic system. Contrary to generators used for Monte Carlo simulations, those 
+designed for cryptography must also generate unpredictable random numbers. The vulnerability of TRNGs to 
+non-invasive attacks has been recently highlighted Our paper presents a contactless attack on a TERO based 
+TRNGs using electromagnetic waves. 
+
+Experiments show that a global exposure of the tested FPGA’s to parasitic electromagnetic fields has an 
+impact on the quality of the generated randomness. More precisely, the Hamming  weight of the generated 
+random numbers were processed in real-time during the experiments in order to detect and correlate the 
+abnormal behaviour of the TRNG to the parasitic signal.
+
+Video:
+https://www.youtube.com/watch?v=mTZYwCTDL7c&t=74s 
