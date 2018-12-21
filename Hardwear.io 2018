@@ -1,0 +1,27 @@
+Strategies to harden and neutralize UAV using RF DEW 
+By 
+Jose Lopes Esteves,Emmanuel Cottais & Chaouki Kasmi 
+
+Presented by José at hardwear.io 2018.
+
+During the last decade, unmanned aerial vehicles (UAVs) have been spreading in both civilian and military contexts. 
+Their use is expanding rapidly and some models can be bought and flown very easily. Furthermore, the open source 
+and DIY communities are extremely active on that topic, contributing to a true democratization of such technology. 
+Along with this rapid adoption, malicious uses of UAVs have increased and the problem of their neutralization has 
+become of high interest for security-aware organizations.
+
+Several solutions are studied, among which the possibility of using radiofrequency directed energy weapons. On 
+the other hand, civilian UAVs are getting more and more involved in critical contexts, bringing a need for security. 
+For both offensive and defensive contexts, it is necessary to better understand the effects of intentional electromagnetic 
+interference on drones. This talk focuses on the technical trials and tribulations faced by the authors during the 
+setup and the realization of IEMI susceptibility tests against common off the shelf UAVs. In order to get a fine 
+grain understanding of the effects of IEMI at both physical and logical levels of the drone, a software instrumentation 
+has been performed, implying a privileged access to the system. Some interesting results will also be provided about 
+the effects observed on the target and discussed regarding their criticality. 
+
+Slides:
+https://media.hardwear.io/wp-content/uploads/2018/10/STRATEGIES-TO-HARDEN-AND-NEUTRALIZE-UAV-USING-RF-DEW-BY-JOSÉ-
+LOPES-ESTEVES-@LOPESSECURITY-at-hardwear.io-2018.pdf
+
+Video:
+https://www.youtube.com/watch?time_continue=2&v=hV0uyPSFn-s
