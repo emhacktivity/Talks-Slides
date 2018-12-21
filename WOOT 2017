@@ -1,0 +1,23 @@
+One Car, Two Frames: Attacks on Hitag-2 Remote Keyless Entry Systems Revisited
+By 
+Ryad Benadjila, Mathieu Renard, José Lopes-Esteves, and Chaouki Kasmi
+
+Since 2006, many papers were devoted to the analysis of the security of the Hitag-2 algorithm in the context of vehicles 
+access control. While this algorithm was proven to be cryptographically broken, it is still in use in the car industry. 
+Recently, new vulnerabilities regarding Hitag-2 based Remote Keyless Entry systems have been exposed, leading to the design
+of an attack allowing to unlock a vehicle and requiring the capture of four to eight radio packets.
+
+However, in this study, it will be shown that specific implementations of Hitag-2 based RKE systems exist, which apply 
+interesting countermeasures and thus are not vulnerable to the aforementioned attack. Furthermore, a detailed black box 
+analysis of such system, from the physical layer up to the rolling code implementation will be proposed. Finally, a new 
+cryptographic weakness will be exposed, which can be exploited to forge valid packets without retrieving the cryptographic 
+key and to open the target vehicle, requiring the capture of only two radio packets.
+
+Paper:
+https://www.usenix.org/system/files/conference/woot17/woot17-paper-benadjila.pdf
+
+Slides:
+https://www.usenix.org/sites/default/files/conference/protected-files/woot17_slides_mathieu_renard.pdf
+
+Video:
+Not available
