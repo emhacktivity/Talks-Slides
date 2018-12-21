@@ -1,0 +1,46 @@
+From Academia to Real World: a Practical Guide to Hitag-2 RKE System Analysis
+
+Auteurs
+Mathieu Renard, Ryad Benadjila, José Lopes Esteves, Chaouki Kasmi
+
+Since 2006, many papers have been devoted to the analysis of the security of the Hitag-2 algorithm in the context of 
+vehicles access control. While this algorithm has proven to be a weak security function, it was suggested that it is 
+still in use in the car industry. In a recent paper presented at Usenix 2016, new vulnerabilities regarding Remote 
+Keyless Entry systems have been exposed. These findings have led to the remote lock/unlock of targeted vehicles with 
+a fake key. The authors came up with a new cryptanalysis of the Hitag-2 algorithm adapted to the RKE context: they 
+were able to design a fake key for accessing the car lock and unlock functions by capturing 4 to 8 RF packets.
+
+The contribution of this article is related to the analysis of published papers in order to qualify the threats of 
+publicly disclosed vulnerabilities in a black-box context, as we didn’t have access to the related car Electronic Control 
+Units and any related proprietary document. Due to the findings of some important discrepancies during the process of 
+applying the approach proposed in the literature to our test vehicle, further scientific and technical efforts have 
+shown to be necessary. The aim of this work is to provide additional details and proven results obtained during the 
+replication of the recent academic papers methodology. As an additional and main outcome, a new and efficient way of 
+attacking Hitag-2 RKE based systems is proposed.
+
+
+Depuis 2006, plusieurs articles ont été consacrés à l'analyse de la sécurité de l'algorithme Hitag-2, notamment utilisé 
+dans le contexte du contrôle d'accès aux fonctionnalités de véhicules (anti-démarrage, ouverture/fermeture). Bien que cet 
+algorithme soit reconnu comme faible depuis longtemps, il semblerait qu'il soit encore utilisé dans l'industrie automobile. 
+Dans un article récent paru à Usenix 2016, de nouvelles vulnérabilités concernant les systèmes de déverrouillage distant 
+(RKE, pour Remote Keyless Entry) ont été exposées. Grâce à une nouvelle cryptanalyse de Hitag-2 adaptée au contexte RKE, 
+les auteurs peuvent forger une fausse clé permettant de verrouiller/déverrouiller une voiture cible en capturant préalablement 
+4 à 8 trames radio.
+
+La présente étude s'inscrit dans le cadre de ces publications, afin de qualifier le niveau de menace des vulnérabilités 
+publiques dans un contexte d'attaquant boîte noire (i.e. sans accès aux Electronic Control Units des voitures ou à des 
+documents non publics). La découverte sur notre véhicule de test de certaines divergences avec l'état de l'art a nécessité 
+un travail d'adaptation non négligeable que nous présentons dans cet article, avec notamment comme contribution la description 
+d'une nouvelle attaque efficace contre les systèmes RKE basés sur l'algorithme Hitag-2.
+
+Paper:
+https://www.sstic.org/media/SSTIC2017/SSTIC-actes/from_academia_to_real_world_a_practical_guide_to_h/SSTIC2017-Article-from_
+academia_to_real_world_a_practical_guide_to_hitag-2_rke_system_analysis-kasmi_lopes-esteves__p6AJmWB.pdf
+
+Slides:
+https://www.sstic.org/media/SSTIC2017/SSTIC-actes/from_academia_to_real_world_a_practical_guide_to_h/SSTIC2017-Slides-from_
+academia_to_real_world_a_practical_guide_to_hitag-2_rke_system_analysis-kasmi_lopes-esteves_r_HTe5Lea.pdf
+
+Video:
+https://static.sstic.org/videos2017/SSTIC_2017-06-08_P03.mp4
+
