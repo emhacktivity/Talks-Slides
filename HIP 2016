@@ -1,0 +1,15 @@
+WHISPER IN THE WIRE: VOICE COMMAND INJECTION RELOADED
+WITH 
+CHAOUKI KASMI AND JOSÉ LOPES ESTEVES
+
+Voice command allows the hand-free use of a mobile device for texting, calling and application launching. This way of interacting with the mobile devices is spreading and will certainly be one of the main improvements in the upcoming UIs. Today, a lot of features can be accessed by voice, depending on the device and the operating system. Some of them can be critical from a security point of view. One can cite placing phone calls, sending text messages, publishing and browsing the internet or even changing the device’s settings. As voice is the medium for launching commands, it is assumed that the victim would hear the attacker’s voice, so that the attack vector is generally unrealistic.
+During the Hack In Paris 2015 conference (You don’t hear me but your phone voice interface does, Hack In Paris 2015), we have shown a way to remotely trigger voice commands on a mobile device using electromagnetic waves. It was shown that the headphone acted as an efficient receiving antenna (a so called front-door coupling interface) that allowed for inducing electric signals containing audio voice commands that were processed and successfully executed by voice command interfaces. Along with the technical details of the attack scenarios, we have provided an analysis of the attack surface and some adapted countermeasures. Finally, several demonstrations were proposed as proof of concepts.
+Recently, we have been working on a new injection technique involving the conducted propagation path for reaching the target at a longer distance and with much less power through the so-called back-door coupling phenomenon (e.g. Cables and circuits which are not designed to receive electromagnetic waves). The injection technique and the propagation path are completely different and the attack scenarios are new with regards to our first talk (You don’t hear me but your phone voice interface does, Hack In Paris 2015). During the presentation, the technical details of the new attack vector will be presented with the related attack scenarios and an update of the risks analysis will be proposed. Moreover, the updated list of counter-measures will be discussed.
+
+NB: This research was reported to manufacturers of smartphones and editors of voice command interface solutions through responsible disclosure on January, 26th 2016.
+
+Video
+https://www.youtube.com/watch?v=SypffKE3caE&index=2&list=PL3UAg9Zuj1yJ_6pySNwbJWi_M1RqJU7Wf
+
+Slides
+https://www.researchgate.net/publication/304789264_20160630_Whisper_in_the_Wire-Voice_Command_Injection_Reloaded
