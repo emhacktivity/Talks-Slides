@@ -1,0 +1,26 @@
+VENTRILOCK: EXPLORING VOICE-BASED AUTHENTICATION SYSTEMS
+WITH 
+CHAOUKI KASMI AND JOSÉ LOPES ESTEVES
+
+
+Voice interfaces are becoming one of the main ways to interact with information systems and especially with IoTs 
+and smartphones. During the past few years, several security researchers have proposed new ways of exploiting 
+this UI to gain control, mostly remotely, on electronic devices by issuing unauthorized voice commands. Among 
+the possible countermeasures to further secure this interface, the speaker authentication seems to be the most deployed. 
+However, this biometric authentication method raises technical challenges in order to be both efficient and user friendly.
+
+In this study, a black box approach for discovering the speaker authentication boundaries will be proposed. 
+To perform such a task, we implemented several signal processing algorithms to modify original voice signals 
+and test them with regards to the targeted voice-based authentication systems. Widely deployed implementations 
+will be assessed so as to determine which characteristics of the voice signal are considered by the authentication 
+engines and how easily they could be circumvented. Finally, we will discuss the capabilities needed to be able to 
+spoof a legit voice signal fully synthetized to by-pass an authentication engine to gain access to the targeted device.
+
+N.B. Responsible disclosure has been done before publication.
+
+Video:
+https://www.youtube.com/watch?v=xLfeD9IS6jg
+
+Slides:
+https://hackinparis.com/data/slides/2017/2017_KASMI_LOPES-ESTEVES_VentriLock_Exploring_voice_based_authentication_systems.pdf
+
