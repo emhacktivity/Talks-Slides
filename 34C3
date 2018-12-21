@@ -1,0 +1,24 @@
+Electromagnetic Threats for Information Security : Ways to Chaos in Digital and Analogue Electronics
+By 
+Chaouki Kasmi and Jose Lopes Esteves
+
+For non specialists, Electromagnetic Pulse weapons (EMP) are fantasy weapons in science fiction movies. 
+Interestingly, the susceptibility of electronic devices to electromagnetic interference has been advertised 
+since the 90’s. Regarding the high integration of sensors and digital systems to control power-grids, telecom 
+networks and automation infrastructures (e.g. Smart-grids, Industrial Control Systems), the intrinsic 
+vulnerability of electronic devices to electromagnetic interference is of fundamental interest. In the context 
+of IT Security, few studies have been carried out to understand how the effects may be a significant issue 
+especially in the far-field region (distance between the transmitter’s antenna and the target with regard to 
+the wavelength/central frequency). Most studies in Emanation Security (EMSEC) are related to near-field 
+probing for side-channel and fault injection attacks assuming a close physical access to the targeted devices. 
+
+In this paper, we propose a methodology to detect, classify and correlate the effect induced during the intentional 
+exposure of analogue and digital systems to electromagnetic interference. Applying this methodology, the implication 
+of the effects for the IT security world will be discussed with regards to the attacker profile needed to set-up a 
+given scenario.
+
+Video:
+https://media.ccc.de/v/34c3-8920-electromagnetic_threats_for_information_security
+
+Slides:
+Available upon request
