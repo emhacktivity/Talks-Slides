@@ -1,0 +1,26 @@
+Smart TVs: Security of DVB-T
+
+Auteurs
+José Lopes Esteves, Tristan Claverie, Chaouki Kasmi
+
+During the last decade, classical televisions have experienced the same evolution as computers and feature phones by 
+integrating new capabilities. Reading emails, installing applications, surfing the web are now common usages of so-called
+Smart TVs. With new services and communication interfaces come new interests from IT security researchers. Multiple studies
+dealing with security and privacy issues on a large number of models have been released. Since 2013, the RF signal 
+broadcasting digital television contents has been shown as a new attack vector, using interactive applications being received 
+through the radiocommunication interface. 
+
+In this paper, the compounds of a DVB-T stream as well as the mechanism of interactive multimedia applications are presented. 
+A recent extension of those standards designed to mitigate the interactive applications attack vector has been published in 
+early 2017 that will be discussed with regards to weaknesses uncovered during our experimentations. Furthermore, several 
+shortcomings of this specification will be discussed listing possible efficient countermeasures for each of them.
+
+Paper:
+https://www.sstic.org/media/SSTIC2018/SSTIC-actes/smart_tvs_security_of_dvb-t/SSTIC2018-Article-smart_tvs_security_of_dvb-t-
+kasmi_lopes-esteves_claverie.pdf
+
+Slides:
+Not available
+
+Video:
+https://static.sstic.org/videos2018/SSTIC_2018-06-13_P06.mp4
