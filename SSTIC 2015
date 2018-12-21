@@ -1,0 +1,26 @@
+Injection de commandes vocales sur ordiphone
+
+Auteurs
+Chaouki Kasmi, José Lopes Esteves 
+
+La commande vocale permet d’utiliser un ordiphone les mains libres. Cette nouvelle façon d’interagir avec les 
+ordiphones est de plus en plus répandue. Actuellement déjà, de nombreuses fonctionnalités, parfois critiques du 
+point de vue de la sécurité de l’information, sont accessibles par commande vocale. Par exemple, selon le modèle 
+d’ordiphone et son système d’exploitation, il est possible d’émettre des appels téléphoniques, d’envoyer des SMS, 
+de prendre des photos et de les publier sur les réseaux sociaux, de naviguer sur internet ou encore de changer les 
+paramètres de l’ordiphone. Comme la voix est le vecteur de déclenchement de ces commandes, cette interface est 
+rarement considérée comme un vecteur d’attaque.
+
+Dans cette présentation, nous introduirons une nouvelle technique d’injection de commandes vocales à distance par 
+interférences électromagnétiques intentionnelles. L’idée part du constat que les ordiphones équipés d’un récepteur 
+FM utilisent le câble des écouteurs comme antenne de réception. Nous montrerons qu’il est possible d’utiliser le 
+câble des écouteurs pour y injecter des commandes vocales via un signal radio spécialement formé. Nous détaillerons 
+la surface d’attaque et le profil d’attaquant nécessaire à la réalisation de ce type d’attaques. Enfin, nous proposerons 
+des contre-mesures adaptées à destination des utilisateurs, des fabricants et des éditeurs de systèmes d’exploitation mobiles.
+
+Video:
+http://static.sstic.org/videos2015/SSTIC_2015-06-03_P09_AGREMI.mp4
+
+Slides:
+https://www.sstic.org/media/SSTIC2015/SSTIC-actes/injection_commandes_vocales_ordiphone/SSTIC2015-Article-injection_
+commandes_vocales_ordiphone-kasmi_lopes-esteves_9giaJ0T.pdf
