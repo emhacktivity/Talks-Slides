@@ -1,0 +1,27 @@
+Air-gap limitations and bypass techniques: “command and control” using Smart Electromagnetic Interferences
+By
+Chaouki Kasmi
+Wireless Security Lab French Network and Information Security Agency (ANSSI)
+José Lopes Esteves
+Wireless Security Lab French Network and Information Security Agency (ANSSI)
+Philippe Valembois
+Wireless Security Lab French Network and Information Security Agency (ANSSI)
+
+
+Air gaps are generally considered to be a very efficient information security protection. However, this technique 
+also showed limitations, involving finding covert channels for bridging the air gap. Interestingly, recent publications 
+have pointed out that a smart use of the intentional electromagnetic interferences introduced new threats for information 
+security. 
+
+In this paper, an innovative way for remotely communicating with a malware installed on a computer by involving 
+the induced perturbations is discussed leading to the design of a new air gap bridging covert channel.
+
+Slides:
+https://www.botconf.eu/wp-content/uploads/2015/12/OK-P17-Chaouki-Kasmi-Jose-Lopes-Esteves-
+Philippe-Valembois-Air-Gap-Command-Control-IEMI.pdf
+
+Video:
+https://www.youtube.com/watch?v=iySP6jq_XYg
+
+Full-paper:
+https://journal.cecyf.fr/ojs/index.php/cybin/article/view/4 
