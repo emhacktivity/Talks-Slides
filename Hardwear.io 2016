@@ -2,6 +2,8 @@ Electromagnetic Harmonic Attack on Transient Effect Ring Oscillator Based True R
 by 
 Patrick Haddad, Jose Lopes Esteves, Chaouki Kasmi, Valentin Houchouas
 
+Presented by Patrick at hardwear.io 2016.
+
 Random number generation is a critical issue in most cryptographic applications. Random numbers are used 
 as confidential keys, but also as initialization vectors, challenges, nonces and masks in side channel attack 
 countermeasures. For this reason, a security flaw in random number generation has a direct impact on the 
