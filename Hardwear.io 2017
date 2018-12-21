@@ -1,0 +1,30 @@
+
+A Ghost in your Transmitter : Analyzing polyglot signals for physical layer covert channels detection
+By
+José LOPES ESTEVES, Emmanuel COTTAIS and Chaouki KASMI
+
+
+During the last 5 years, the possibility of using physical covert channels to communicate with air-gapped 
+information systems has been widely investigated, the main idea being the instrumentation of software or 
+hardware components in order to code information on a shared physical medium. In complement, logical covert 
+channels in communication protocols have been intensively studied for several decades, mostly relying on 
+unused or reserved fields in frames at logical layers or on the instrumentation of timings and state transitions 
+in the target protocols. Interestingly, the exploitation of physical layer characteristics of legitimate 
+transmissions as covert channels seems to have been underestimated. More recently, an approach was proposed 
+to superimpose two different protocols, one ASK-based and one PSK-based, within the same transmitted PHY frames, 
+thus illustrating the possibility of covert channels using so-called polyglot signals. 
+
+In this study, we decided to focus on the possibility of using a compromised radiofrequency transceiver in order 
+to create a covert channel on the physical layer while preserving a legitimate communication. To this end, we 
+considered a classical QPSK transmission system on which a covert communication was implemented by modulating 
+the legitimate (modulated) signal. Several modulation schemes were formalized showing that covert channels 
+based on polyglot signals are not restricted to the use of complementary carrier characteristics (e.g. amplitude 
+for channel 1 and phase for channel 2). For each attack model, a specific receiver has been designed. 
+Finally, we will show that the detection of this kind of RF covert channel, which is not possible with a classical 
+receiver, can be achieved by monitoring some simple RF characteristics with state-of-the-art signal processing algorithms.
+
+Slides:
+https://hardwear.io/document/hardwear-io-lopesEsteves-kasmi-cottais-ghost-in-your-transmitter-phycovert-channels-detection.pdf
+
+Video:
+https://www.youtube.com/watch?v=3hqeRdYwto0
